@@ -35,11 +35,17 @@ Instagram:
 
 Snapchat:
 1)Cool Filters
-2)I like the color lay ut
+2)I like the color lay0ut
 
 Fifa Mobile:
 1)I like the game
-2)
+2)It allows me to see my favorite football layers
+
+Chat GPT:
+1)Easily accesible whwn I need to understand any concept ior topic.
+2)I have phone interacting with it 
+
+
 
 ## Notes
 
