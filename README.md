@@ -46,6 +46,7 @@ Chat GPT:
 2)I have phone interacting with it 
 
 
+I want to make an app that links people with similar interests. It allows people to pick a topic or something random they want to talk to someomne about and it links them up based on their geographical location or timezone. It allows them to choose people to meet(Virtually or in person). For example a University Student who wants to meet with some students on subjects like calculus 2. Cn easily go to the app and find a match.
 
 ## Notes
 
