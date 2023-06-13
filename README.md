@@ -1,12 +1,12 @@
 # PreworkiOS
 Prework for Codepath.
-# Prework - *Name of App Here*
+# Prework - PreeworkiOS
 
-Submitted by: **Your Name Here**
+Submitted by:Ifeoluwakiitan Ayandosu
 
-**Name of your app** is an app that... [TODO] 
+Color change is an app that Randomizes the color of the screen>
 
-Time spent: **X** hours spent in total
+Time spent: 20 hours spent in total
 
 ## Required Features
 
