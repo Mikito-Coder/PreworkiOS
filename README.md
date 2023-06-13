@@ -29,6 +29,17 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Instagram:
+1)Deletes messagesn without leaving a trace
+2)Keeps me abreast on current affairs with visual representations.
+
+Snapchat:
+1)Cool Filters
+2)I like the color lay ut
+
+Fifa Mobile:
+1)I like the game
+2)
 
 ## Notes
 
