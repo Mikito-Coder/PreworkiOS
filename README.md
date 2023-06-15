@@ -6,7 +6,7 @@ Submitted by:Ifeoluwakiitan Ayandosu
 
 Color change is an app that Randomizes the color of the screen>
 
-Time spent: 20 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -46,12 +46,16 @@ Chat GPT:
 1)Easily accesible whwn I need to understand any concept ior topic.
 2)I have phone interacting with it 
 
-
-I want to make an app that links people with similar interests. It allows people to pick a topic or something random they want to talk to someomne about and it links them up based on their geographical location or timezone. It allows them to choose people to meet(Virtually or in person). For example a University Student who wants to meet with some students on subjects like calculus 2. Cn easily go to the app and find a match.
+My objective is to create an application that enhances connections among individuals who possess mutual interests. This application will empower users to choose a particular topic of interest or even engage in conversations about random subjects, subsequently linking them with others based on their geographic location or timezone. Users will have the flexibility to opt for virtual or in-person meetings, as the app will grant them the freedom to select preferred individuals to connect with. For example, a university student in search of fellow classmates to discuss subjects like calculus 2 or collaborate with partners for app development projects will easily discover suitable matches through the app, simplifying the process of finding like-minded individuals.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+During the process of developing the app, I did not encounter any significant challenges. Looking ahead, I am eager to incorporate additional features into the app in the future.
+
+
+
+
+
 
 ## License
 
