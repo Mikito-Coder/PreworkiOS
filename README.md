@@ -21,10 +21,9 @@ Here's a walkthrough of implemented user stories:
 
 ![Kapture 2023-06-14 at 19 08 00](https://github.com/Mikito-Coder/PreworkiOS/assets/67525316/95c42f34-b877-4376-ad01-3a57cefd7a42)
 
-<img src='Kapture 2023-06-14 at 19.08.00.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap. 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
