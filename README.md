@@ -4,7 +4,7 @@ Prework for Codepath.
 
 Submitted by:Ifeoluwakiitan Ayandosu
 
-Color change is an app that Randomizes the color of the screen>
+Color change serves as a platform to showcase the name, school, and job aspirations of its creator. Additionally, it features a button that, upon clicking, dynamically changes the background color of the app to a random color with each interaction.
 
 Time spent: 2 hours spent in total
 
