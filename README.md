@@ -19,6 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
+![Kapture 2023-06-14 at 19 08 00](https://github.com/Mikito-Coder/PreworkiOS/assets/67525316/95c42f34-b877-4376-ad01-3a57cefd7a42)
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
