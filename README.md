@@ -1,6 +1,4 @@
-# PreworkiOS
-Prework for Codepath.
-# Prework - PreeworkiOS
+#ColorChange
 
 Submitted by:Ifeoluwakiitan Ayandosu
 
@@ -9,8 +7,6 @@ Color change serves as a platform to showcase the name, school, and job aspirati
 Time spent: 2 hours spent in total
 
 ## Required Features
-
-The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
